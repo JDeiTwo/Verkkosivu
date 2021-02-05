@@ -1,1 +1,36 @@
+body {
+	background-color: #000000;
+}
 
+
+.mummo {
+	border-color: #fff;
+	border-style: dotted;
+	border-width: 2px;
+	width: 100px;
+	height: 100px;
+	
+}
+
+
+h1 {font-size: 20px;
+}
+
+
+p {font-size: 12px;
+
+}
+
+
+ol {font-size: 10px;
+}
+
+
+ul {font-size: 10px;
+}
+
+
+.kettu {color: #fff;}
+
+
+#lili {color: #3dfc05;}
