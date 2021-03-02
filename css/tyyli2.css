@@ -17,10 +17,10 @@ nav ul {
 
 article {
   float: left;
-  width: 65%;
+  width: 64%;
   background-color: #d2ceff;
   text-align: left;
-  padding: 15.7px;
+  padding: 34px;
   margin-right: 10%;
 }
 
@@ -36,4 +36,12 @@ section {
 }
 
 h3 {text-align: center;
+}
+
+footer {position: absolute;
+		left: 49%;
+		top: 49%;
+}
+
+a:hover {color: rgb(255, 239, 0);
 }
