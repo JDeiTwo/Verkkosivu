@@ -1,0 +1,33 @@
+h1 {text-align: center;
+	margin-bottom: 5%;
+	margin-top: 3%;
+	margin-left: 25%;
+	margin-right: 25%;
+	border-style: solid;
+	border-width: 7px;
+	padding: 70px;
+}
+.row {text-align: center;
+	  border-style: solid;
+	  border-width: 7px;
+	  margin: auto;
+	  width: 750px;
+	  padding: 50px;
+	  
+}
+
+body {border-style: solid;
+	  height: 750px;
+	  border-width: 7px;
+	  width: 1536px;
+}
+
+#A {text-align: center;
+	border-style: solid;
+	border-width: 7px;
+	padding: 50px;
+    position: absolute;
+	bottom: 9%;
+	left: 26%;
+	right: 26%;
+}
