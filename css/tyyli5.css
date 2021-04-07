@@ -1,0 +1,22 @@
+#Nee {text-shadow: 2px 2px #00ff1c;
+	  background-image: url(../https://Zhenine.github.io/Verkkosivu/Tech.jpg);
+	  background-repeat: no-repeat;
+	  background-size: cover;
+	  text-align: center;
+}
+
+a {color: white;
+   transition: 1.5s;
+   
+}
+
+a:hover {color: red;
+		 transition: 1.5s;
+		 
+}
+
+@media screen and (min-width: 800px) {
+  body {
+    background-color: black;
+  }
+}
